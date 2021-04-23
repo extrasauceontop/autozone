@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <sitemap>
+        <loc>https://www.autozone.com/locations/sitemap.xml.0</loc>
+        <lastmod>2021-04-23T09:45:18-04:00</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://www.autozone.com/locations/sitemap.xml.1</loc>
+        <lastmod>2021-04-23T09:45:18-04:00</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://www.autozone.com/locations/sitemap.xml.2</loc>
+        <lastmod>2021-04-23T09:45:18-04:00</lastmod>
+    </sitemap>
+</sitemapindex>

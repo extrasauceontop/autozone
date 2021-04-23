@@ -1,0 +1,4 @@
+lxml==4.6.2
+tenacity==7.0.0
+sglogging==0.0.4
+sgrequests==0.1.8
